@@ -7,10 +7,10 @@ Este projeto é uma página estática criada com HTML/CSS que apresenta diferent
 
 ## 🚀 Principais Funcionalidades  
 - Organização em grades e seções, cada animal ocupa seu card ou área bem definida.  
-- Exibição de títulos, família, peso, idade, origem e fatos curiosos para cada animal (exemplo no “Lobo Cinza”). :contentReference[oaicite:0]{index=0}  
-- Galeria de imagens para cada animal, com múltiplas fotos exibidas de forma limpa e organizada. :contentReference[oaicite:1]{index=1}  
+- Exibição de títulos, família, peso, idade, origem e fatos curiosos para cada animal (exemplo no “Lobo Cinza”).
+- Galeria de imagens para cada animal, com múltiplas fotos exibidas de forma limpa e organizada.
 - Layout responsivo que se adapta a diferentes tamanhos de tela (desktop, tablet, mobile).  
-- Navegação simples: links de menu como “Sobre”, “Animais”, “Contato” — visível no topo do site. :contentReference[oaicite:2]{index=2}  
+- Navegação simples: links de menu como “Sobre”, “Animais”, “Contato” — visível no topo do site.
 
 ## 🛠 Tecnologias Utilizadas  
 - HTML5  
